@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "systems",
+  "info": {
+    "singularName": "system",
+    "pluralName": "systems",
+    "displayName": "System",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "os_system": {
+      "type": "string",
+      "required": true
+    },
+    "os_distrib": {
+      "type": "string",
+      "required": true
+    },
+    "os_version": {
+      "type": "string",
+      "required": true
+    },
+    "os_arch": {
+      "type": "string",
+      "required": true
+    },
+    "os_eos": {
+      "type": "date",
+      "required": true
+    },
+    "os_name": {
+      "type": "string"
+    }
+  }
+}
