@@ -1,0 +1,46 @@
+﻿os_system;os_distrib;os_version;os_arch;os_type;os_eos
+FreeBSD;TrueNAS;12 stable;64b;nas;30/06/2024
+Linux ;Centos;5;32b;server;31/03/2017
+Linux ;Centos;6;32b;server;30/11/2020
+Linux ;Centos;6;64b;server;30/11/2020
+Linux ;Centos;7;64b;server;30/06/2024
+Linux ;Centos;8;64b;server;17/06/2018
+Linux ;Debian;6;32b;server;31/05/2014
+Linux ;Debian;6;64b;server;31/05/2014
+Linux ;Debian;7;64b;server;25/04/2016
+Linux ;Debian;8;32b;server;25/04/2016
+Linux ;Debian;8;64b;server;25/04/2016
+Linux ;Debian;10;64b;server;01/08/2022
+Linux ;Fedora;9;32b;server;10/07/2009
+Linux ;Oracle Linux;7;64b;server;01/07/2024
+Linux ;Oracle Linux;8;64b;server;01/07/2029
+Linux ;Oracle  VM Server ;3.4.4;64b;hyperviseur;31/03/2024
+Linux ;Suse ;11 entreprise ;64b;nas;31/10/2024
+Linux ;Suse ;11 entreprise SP1 EMC;64b;nas;31/10/2024
+Linux ;Suse ;12 entreprise SP1 EMC;64b;nas;31/10/2024
+Linux ;Ubuntu;13;64b;server;01/07/2014
+Linux ;Ubuntu;12 LTS;64b;server;28/04/2017
+Linux ;Ubuntu;18 LTS;64b;server;28/04/2023
+Linux ;Ubuntu;20 LTS;64b;server;01/04/2025
+Linux ;Ubuntu;22 LTS;64b;server;01/04/2027
+Linux ;VMWare;ESXI 6.0.0;64b;hyperviseur;12/03/2020
+Linux ;VMWare;ESXI 6.5.0;64b;hyperviseur;15/10/2022
+Linux ;VMWare;ESXI 6.7.0;64b;hyperviseur;15/10/2022
+Linux ;VMWare;ESXI 7,0.0;64b;hyperviseur;02/04/2027
+Linux ;VMWare;vCenter 6;64b;server;12/03/2020
+Linux ;VMWare;vCenter 6.5;64b;server;15/10/2022
+Linux ;VMWare;vCenter 6.7;64b;server;15/10/2022
+Linux ;VMWare;vCenter 7.0;64b;server;02/04/2027
+Microsoft;Windows;7;64b;client;14/01/2020
+Microsoft;Windows;10;64b;client;14/10/2025
+Microsoft;Windows;Server 2003;32b;server;14/07/2015
+Microsoft;Windows;Server 2003;64b;server;14/07/2015
+Microsoft;Windows;Server 2003 R2;32b;server;14/07/2015
+Microsoft;Windows;Server 2003 R2;64b;server;14/07/2015
+Microsoft;Windows;Server 2008;32b;server;14/01/2020
+Microsoft;Windows;Server 2008;64b;server;14/01/2020
+Microsoft;Windows;Server 2008 R2;64b;server;14/01/2020
+Microsoft;Windows;Server 2012;64b;server;10/10/2023
+Microsoft;Windows;Server 2012 R2;64b;server;10/10/2023
+Microsoft;Windows;Server 2016 ;64b;server;12/01/2027
+Microsoft;Windows;Server 2019 ;64b;server;09/01/2029

@@ -1,299 +1,299 @@
-﻿OS;VLAN;Adresse IP;Adresse IP2;Adresse IP3;Adresse IP4;Adresse IP5;Adresse IP6;Adresse IP7;Adresse IP8;Adresse IP9;Adresse IP10;Adresse IP11;Virtualisation;Cluster;Site d'hébergement;Statut;Version Oracle;Supervisé;Type Serveur;Service BDD ;1_Code Appli;2_Libellé Appli
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.1;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.2;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.3;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.4;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.5;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.6;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.7;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.8;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);;172.18.4.9;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);DMZ;192.168.222.21;;;;;;;;;;;VMWARE;DMZ;Sartel;;;;PRD;;;
-Linux  VMWare ESXI 6.5.0 (64b);DMZ;192.168.222.22;;;;;;;;;;;VMWARE;DMZ;Sartel;;;;PRD;;;
-Linux  VMWare ESXI 6.0.0 (64b);;172.18.4.21;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.0.0 (64b);;172.29.1.232;;;;;;;;;;;VMWARE;TOIP;Croix de Pierre;;;;PRD;;;
-Linux  VMWare ESXI 6.0.0 (64b);;172.29.1.233;;;;;;;;;;;VMWARE;TOIP;Sartel;;;;PRD;;;
-Linux  Oracle  VM Server  3.4.4 (64b);VLAN72 SI;172.16.25.170;;;;;;;;;;;NA;LAN;Croix de Pierre;;;;PRD;;;
-Linux  Oracle  VM Server  3.4.4 (64b);VLAN72 SI;172.16.25.171;;;;;;;;;;;NA;LAN;Sartel;;;;PRD;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.26;172.17.0.1;10.1.83.1;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;DEV;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.34;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;DEV;;;
-Linux  Centos 8 (64b);VLAN72 SI;172.16.22.30;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;DEV;;;
-Linux  Suse  11 entreprise SP1 EMC (64b);DMZ;192.168.222.1;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;à créer;AVAMAR
-Microsoft Windows Server 2008 R2 (64b);DMZ;192.168.222.151;192.168.222.152;192.168.222.153;192.168.222.155;192.168.222.156;192.168.222.157;192.168.222.158;192.168.222.159;192.168.222.161;192.168.222.162;192.168.222.180;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL250;ISOTOOLS
-Microsoft Windows Server 2008 R2 (64b);DMZ;192.168.222.30;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;à créer;SITE SARTHE LECTURE
-Linux  Centos 7 (64b);DMZ;192.168.222.192;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;SOLATIS?
-Linux  Centos 7 (64b);DMZ;192.168.222.193;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;SOLATIS?
-Microsoft Windows Server 2003 (32b);DMZ;192.168.222.51;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;MSSQL;à créer;SITE SARTHE LECTURE?
-Microsoft Windows 7 (64b);DMZ;192.168.222.41;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Non;PRD;;;
-Linux  Ubuntu 13 (64b);DMZ;192.168.222.200;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à SOLIS AST?
-Linux  Centos 7 (64b);DMZ;192.168.222.20;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à SOLIS RSA?
-Linux  Centos 7 (64b);DMZ;192.168.222.19;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
-Linux  Suse  11 entreprise SP1 EMC (64b);DMZ;192.168.222.6;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;EMC
-Microsoft Windows Server 2016  (64b);DMZ;192.168.222.46;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL305;SOLIS - GPDA
-Microsoft Windows Server 2016  (64b);DMZ;192.168.222.44;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à la GED?
-Linux  Centos 6 (64b);DMZ;192.168.222.13;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL124;PEGASE
-Microsoft Windows 7 (64b);DMZ;192.168.222.42;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Non;PRD;;;
-Microsoft Windows Server 2016  (64b);DMZ;192.168.222.131;192.168.222.130;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
-Microsoft Windows Server 2012 R2 (64b);DMZ;192.168.222.191;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL248;Site web GEO.SARTHE.FR?
-Linux  Centos 7 (64b);DMZ;192.168.222.145;10.100.100.2;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;à créer;Ucopia
-Linux  Centos 7 (64b);DMZ;192.168.222.32;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL038;CAPDEMAT
-Microsoft Windows Server 2012 R2 (64b);DMZ;192.168.222.190;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL074;GeoCortex
-Linux  Debian 7 (64b);DMZ;192.168.222.14;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à sarthe.fr/ à décommissioner?
-Linux  Debian 7 (64b);DMZ;192.168.222.15;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à sarthe.fr/ à décommissioner?
-Microsoft Windows 7 (64b);;;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;N/A;TST;;;
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.161;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.162;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.163;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.164;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.165;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.166;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
-Microsoft Windows 10 (64b);VLAN72 SI;172.16.40.7;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;console
-Microsoft Windows 10 (64b);VLAN72 SI;172.16.40.3;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;console
-Microsoft Windows 10 (64b);VLAN72 SI;172.16.40.78;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL041;CEGID RH
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.20;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL041;CEGID RH
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.80;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL154;SOLIS - ASG?
-Microsoft Windows Server 2008 (32b);VLAN72 SI;172.16.20.25;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL155;SOLIS - AST (ASE-AFI-PAIE-IP-AGREMENT-FSL)?
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.98;;;;;;;;;;;VMWARE;LAN;Virtuel;hors tension;NA;Oui;PRD;;;handicap Franck HERARD? Gestion de processus
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.8;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;Décisionnel JFB
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.149;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL268;Référentiel RH des agents?
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.6;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL188;TALEND
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.96;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL041;CEGID RH
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.65;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;à rattacher à portail élus,…? Bruno Renier
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.75;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;MSSQL;;
-Linux  Centos 5 (32b);VLAN72 SI;172.16.20.143;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL102;KOLOK
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.130;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;JFB
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.29;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL122;ORPHEE.NET BDP
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.4;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL138;SHAREPOINT 2013
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.63;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;MSSQL;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.5;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;MSSQL;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.21;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;MSSQL;APPL067;FOEDERIS
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.61;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;à rattacher à SOLIS AST, ASG, RSA?
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.165;172.16.20.167;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL224;SOLIS MOBILITE?
-Microsoft Windows Server 2008 (32b);VLAN72 SI;172.16.20.145;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.17;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.137;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL183;WINDEV
-Linux  Fedora 9 (32b);VLAN72 SI;172.16.20.151;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Linux  Fedora 9 (32b);VLAN72 SI;172.16.20.152;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Linux  Fedora 9 (32b);VLAN72 SI;172.16.20.153;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Microsoft Windows Server 2008 (32b);VLAN72 SI;172.16.20.100;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra imp
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.39;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.18;;;;;;;;;;;NA;PHY;Sartel;;;Oui;PRD;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.45;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra imp
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.27;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.160;;;;;;;;;;;NA;PHY;Croix de Pierre;;;Oui;PRD;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.161;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.17;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;APPL251;Geocortex-Analytics
-Linux  Debian 8 (64b);VLAN72 SI;172.16.22.19;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);;172.19.158.1;;;;;;;;;;;NA;PHY;Croix de Pierre;;;Non;HP;;;
-Microsoft Windows Server 2008 R2 (64b);;172.19.63.1;;;;;;;;;;;NA;PHY;Croix de Pierre;;;Non;HP;;;
-Microsoft Windows Server 2008 R2 (64b);;Pas de réponse;;;;;;;;;;;NA;PHY;Croix de Pierre;;;Non;HP;;;
-Linux  Centos 6 (64b);VLAN72 SI;172.16.20.156;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL011;ALFRESCO (GED Transverse)
-Linux  Centos 7 (64b);VLAN72 SI;172.16.23.10;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.200;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL154;SOLIS - ASG
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.201;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL155;SOLIS - AST (ASE-AFI-PAIE-IP-AGREMENT-FSL)
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.78;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL114;MILPAT
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.34;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL117;MULTIGEST
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.14;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL033;BO
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.32;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL193;TOTEM
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.45;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL272;AIRS COURRIER
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.92;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL009;AIRS DELIB
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.186;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.25;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.21;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL117;MULTIGEST
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.27;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL188;TALEND
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.37;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL067;FOEDERIS
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.46;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.46;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL020;ASTRE-GF
-Linux  Centos 7 (64b);VLAN72 SI;172.16.21.49;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL020;ASTRE-GF
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.55;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL069;FRAISDEP
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.47;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL020;ASTRE-GF
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.23;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL073;GECCO-PARAPHEUR
-Linux  Debian 7 (64b);VLAN72 SI;172.16.21.13;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL038;CAPDEMAT
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.94;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL043;CHRONOS
-Linux  Centos 7 (64b);;10.189.251.245;172.16.20.245;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.162;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra imp
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.81;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.21.29;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL095;I-PARAPHEUR
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.42;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL140;SIGNAL Projet, Gestion shéma directeur
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.119;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL101;KENTIKA
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.54;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL110;MENSURA Génius
-Linux  Debian 10 (64b);VLAN72 SI;172.16.21.12;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL104;LIGEO GESTION
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.24.2;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.121;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra exchange
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.39;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra antivirus
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.44;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Linux  Debian 8 (64b);VLAN72 SI;172.16.21.22;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.21.26;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
-Linux  Oracle Linux 7 (64b);VLAN72 SI;172.16.25.173;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra OVM
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.19;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;à rattacher à SOLIS-AST?
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.10;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL109;AJARIS - Médiathèque d’entreprise
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.189;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL125;PLANOTEAM
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.144;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL129;PROGOS
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.134;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL212;SOLIS - Portail Agent
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.202;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL157;SOLIS - RSA
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.242;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL157;SOLIS - RSA
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.59;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra sccm
-Microsoft Windows Server 2012 R2 (64b);;172.29.1.35;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL274;Service Pilot
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.30;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.31;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.51;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL154;SOLIS - ASG?
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.52;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL154;SOLIS - ASG?
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.190;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.24.1;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL124;PEGASE? À modifier, créer une nouvelle PEGASE Transport adapté
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.20.95;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL309;SUITE JETON
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.35;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL165;TELIOS
-Linux  Centos 7 (64b);VLAN72 SI;172.16.21.37;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL038;CAPDEMAT
-Linux  Centos 7 (64b);VLAN72 SI;172.16.21.38;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL038;CAPDEMAT
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.20.205;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Linux  Centos 8 (64b);VLAN72 SI;172.16.21.43;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL238;à rattacher à Drupal 8
-Linux  VMWare VCenter 6.7 (64b);VLAN72 SI;172.16.20.53;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;Infra VMWare
-Linux  Centos 7 (64b);VLAN72 SI;172.16.21.33;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Linux  Debian 8 (64b);VLAN72 SI;172.16.21.1;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
-Linux  Debian 8 (64b);VLAN72 SI;172.16.21.2;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;à rattacher à Mon Intranet? Autres sites?
-Microsoft Windows Server 2008 R2 (64b);;172.29.1.102;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Non;PRD;;à créer;à rattacher à Cisco? À créer
-Linux  Debian 8 (64b);VLAN72 SI;172.16.21.4;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.31;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.48;172.16.20.64;10.10.0.1;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.49;172.16.20.64;10.10.0.2;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.192;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;TST;ORACLE;APPL021;ATAL
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.146;;;;;;;;;;;OVM;OVM;Virtuel;;10;Oui;TST;ORACLE;APPL184;INFOCENTRE ASG
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.71;;;;;;;;;;;OVM;OVM;Virtuel;;10;Oui;PRD;ORACLE;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.15;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;PRD;ORACLE;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.187;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;PRD;ORACLE;APPL154;SOLIS - ASG
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.231;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;PRD;ORACLE;APPL184;INFOCENTRE ASG…?
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.132;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;PRD;ORACLE;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.28;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;PRD;ORACLE;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.233;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;PRD;ORACLE;;
-Linux  Oracle Linux 8 (64b);VLAN72 SI;172.16.21.53;;;;;;;;;;;OVM;OVM;Virtuel;;;Oui;PRD;ORACLE;APPL020;ASTRE-GF
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.182;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;PRD;ORACLE;APPL114;MILPAT
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.15;;;;;;;;;;;OVM;OVM;Virtuel;;10;Oui;PRD;ORACLE;APPL074;GeoCortex
-Linux  Suse  11 entreprise SP1 EMC (64b);;172.29.1.10;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;infra avamar
-Red Hat Enterprise Linux 6 (64 bits);;172.29.1.208;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Red Hat Enterprise Linux 6 (64 bits);;172.29.1.200;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Red Hat Enterprise Linux 6 (64 bits);;172.29.1.202;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Red Hat Enterprise Linux 6 (64 bits);;172.29.1.204;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Red Hat Enterprise Linux 6 (64 bits);;172.29.1.211;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Autre (32 bits);DMZ;192.168.222.71;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Red Hat Enterprise Linux 6 (64 bits);;172.29.1.212;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Microsoft Windows Server 2012 R2 (64b);;172.29.1.220;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Linux  Debian 8 (32b);;172.29.1.214;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Linux  Debian 8 (32b);;172.29.1.216;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Microsoft Windows Server 2012 R2 (64b);;172.29.1.228;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Microsoft Windows Server 2012 R2 (64b);;172.29.1.222;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
-Linux  Suse  12 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.2;;;;;;;;;;;NA;LAN;Virtuel;;;Oui;PRD;;;infra NAS
-Linux  Suse  12 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.1;;;;;;;;;;;NA;LAN;Virtuel;;;Oui;PRD;;;infra NAS
-Microsoft Windows 10 (64b);;172.18.4.2;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;N/A;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.86;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL125;PLANOTEAM
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.188;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;GECCO-PARAPHEUR?
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.27;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Non;PRD;;APPL137;SARTHE.FR
-Linux  Ubuntu 20 LTS (64b);VLAN72 SI;172.16.21.50;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL137;SARTHE.FR
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.18;;;VMWARE;Virtuel;DMZ;;NA;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;à créer;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.88;;;VMWARE;Virtuel;LAN;;NA;;;;OVM;OVM;Virtuel;;NA;Non;PRD;ORACLE;APPL125;PLANOTEAM
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.26;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;GECCO-PARAPHEUR?
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.28;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL166;TOPKAPI
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.206;;;;;;;;;;;OVM;OVM;Virtuel;;;;PRD;ORACLE;APPL303;NEPTUNE
-Linux  Oracle Linux 8 (64b);VLAN72 SI;172.16.21.58;;;;;;;;;;;OVM;OVM;Virtuel;;NA;Non;PRD;ORACLE;APPL087;HORUS
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.60;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL087;HORUS
-Linux  Suse  11 entreprise  (64b);;172.18.4.16;;;;;;;;;;;VMWARE;SECU;Virtuel;;NA;Non;PRD;;;infra stockage
-Linux  Ubuntu 20 LTS (64b);VLAN72 SI;172.16.21.56;;;;;;;;;;;VMWARE;LAN;Virtuel;;;;PRE;;APPL038;CAPDEMAT
-Linux  Ubuntu 20 LTS (64b);VLAN72 SI;172.16.21.57;;;;;;;;;;;VMWARE;LAN;Virtuel;;;;PRD;;APPL038;CAPDEMAT
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.56;;;;;;;;;;;VMWARE;DMZ;Virtuel;;;;PRE;;APPL038;CAPDEMAT
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.57;;;;;;;;;;;VMWARE;DMZ;Virtuel;;;;PRD;;APPL038;CAPDEMAT
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.134;;;;;;;;;;;NA;LAN;Croix de Pierre;;;;PRD;;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.61;;;;;;;;;;;OVM;LAN;Virtuel;;NA;;PRD;ORACLE;APPL009;AIRS DELIB
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.62;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;;PRD;;APPL009;AIRS DELIB
-Linux  Debian 10 (64b);VLAN72 SI;172.16.20.70;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;;PRD;ORACLE;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.63;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL041;CEGID RH
-Linux  Ubuntu 22 LTS (64b);VLAN72 SI;172.16.21.64;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL116;MONINTRANET.SARTHE.FR
-Linux  Centos 7 (64b);DMZ;192.168.222.31;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRE;;;
-Linux  Debian 7 (64b);DMZ;192.168.222.17;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRE;;;
-Microsoft Windows Server 2012 R2 (64b);DMZ;192.168.222.25;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);DMZ;192.168.222.194;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);DMZ;192.168.222.43;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 6 (64b);DMZ;192.168.222.3;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Non;TST;;;
-Microsoft Windows Server 2016  (64b);DMZ;192.168.222.45;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
-Linux  Debian 8 (64b);VLAN72 SI;172.16.22.21;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRE;;;
-Linux  Debian 8 (64b);VLAN72 SI;172.16.22.29;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRE;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.22;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRE;;;
-Linux  Centos 8 (64b);VLAN72 SI;172.16.22.31;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRE;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.4;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.8;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.10;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Debian 8 (64b);VLAN72 SI;172.16.20.190;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.25;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Debian 10 (64b);VLAN72 SI;172.16.22.5;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.13;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.12;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.41.13;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.41;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.14;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Suse  11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.22.28;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 6 (64b);VLAN72 SI;172.16.20.155;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Ubuntu 12 LTS (64b);VLAN72 SI;172.16.20.16;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.79;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.9;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.35;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.93;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.41;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.38;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.41;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.39;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Debian 7 (64b);VLAN72 SI;172.16.20.193;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.94;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.20;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.83;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.22.2;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.118;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.183;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.18;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.188;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.154;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.133;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.36;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.35;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.12;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.22.3;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.6;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.7;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.18;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.36;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Linux  Centos 7 (64b);VLAN72 SI;172.16.22.23;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.24;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.16;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;TST;ORACLE;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.32;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;TST;ORACLE;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.74;;;;;;;;;;;OVM;OVM;Virtuel;;10;Oui;TST;ORACLE;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.131;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;TST;ORACLE;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.37;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;TST;ORACLE;;
-Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.232;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;TST;ORACLE;;
-Linux  Oracle Linux 8 (64b);VLAN72 SI;172.16.22.42;;;;;;;;;;;OVM;OVM;Virtuel;;;Oui;TST;ORACLE;;
-Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.60;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;TST;ORACLE;;
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.101;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;N/A;TST;;;
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.102;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.103;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.104;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.85;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
-Linux  Ubuntu 20 LTS (64b);VLAN72 SI;172.16.20.23;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.187;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.26;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRE;;;
-Linux  Ubuntu 20 LTS (64b);VLAN72 SI;172.16.22.50;;;VMWARE;Virtuel;DMZ;;NA;;;;VMWARE;LAN;Virtuel;;NA;Non;PRE;;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.87;;;VMWARE;Virtuel;LAN;;NA;;;;OVM;OVM;Virtuel;;NA;Non;TST;ORACLE;;
-Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.20;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.48;;;VMWARE;Virtuel;LAN;;NA;Oui;TST;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;créer appli Multigest administratif?
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.52;;;VMWARE;Virtuel;LAN;;NA;Oui;TST;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;créer appli Multigest administratif?
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.43;;;;;;;;;;;OVM;OVM;Virtuel;;;;TST;ORACLE;;
-Linux  Oracle Linux 8 (64b);VLAN72 SI;172.16.22.58;;;;;;;;;;;OVM;OVM;Virtuel;;NA;Non;TST;ORACLE;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.60;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
-FreeBSD TrueNAS 12 stable (64b);VLAN72 SI;172.16.21.189;;;;;;;;;;;VMWARE;SECU;Virtuel;;NA;Non;TST;;;
-Linux  Ubuntu 20 LTS (64b);VLAN72 SI;172.16.20.24;;;;;;;;;;;VMWARE;SECU;Virtuel;;NA;Non;PRE;;;
-Linux  Ubuntu 20 LTS (64b);VLAN72 SI;172.16.21.55;;;;;;;;;;;VMWARE;LAN;Virtuel;;;;DEV;;;
-Linux  Ubuntu 20 LTS (64b);DMZ;192.168.222.55;;;;;;;;;;;VMWARE;DMZ;Virtuel;;;;DEV;;;
-Linux  Oracle Linux 8 (64b);VLAN72 SI;172.16.22.55;;;;;;;;;;;OVM;OVM;Virtuel;;;;TST;ORACLE;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.62;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;;TST;;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.66;;;;;;;;;;;OVM;LAN;Virtuel;;NA;Oui;TST;ORACLE;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.63;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
-Linux  Ubuntu 22 LTS (64b);VLAN72 SI;172.16.22.64;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.65;;;;;;;;;;;VMWARE;;;;;;;;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.65;;;;;;;;;;;VMWARE;;;;;;;;;
-Linux  Ubuntu 18 LTS (64b);VLAN72 SI;172.16.22.66;;;;;;;;;;;VMWARE;;;;;;;;;
-Linux  Ubuntu 18 LTS (64b);VLAN72 SI;172.16.21.66;;;;;;;;;;;VMWARE;;;;;;;;;
-Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.67;;;;;;;;;;;VMWARE;;;;;;;ORACLE;;
+﻿Ancien nom;Libellé;Code;Type;Description /role;OS;VLAN;Adresse IP;Adresse IP2;Adresse IP3;Adresse IP4;Adresse IP5;Adresse IP6;Adresse IP7;Adresse IP8;Adresse IP9;Adresse IP10;Adresse IP11;Virtualisation;Cluster;Site d'hébergement;Statut;Version Oracle;Supervisé;Type Serveur;Service BDD ;1_Code Appli;2_Libellé Appli
+srv-app-kolok (linux);SRV-APP-KOLOK;SRVP0122;Serveur Virtuel;Applications KOLOK (protocole);Linux Centos 5 (32b);VLAN72 SI;172.16.20.143;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL102;KOLOK
+srv-prd-pegaphp;SRV-PRD-PEGAPHP;SRVP0014;Serveur Virtuel;serveur PHP pour application Pegase TA;Linux Centos 6 (64b);DMZ;192.168.222.13;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL124;PEGASE
+srv-prd-alfresco;SRV-PRD-ALFRESCO;SRVP0153;Serveur Virtuel;frontalapplication GED alfresco;Linux Centos 6 (64b);VLAN72 SI;172.16.20.156;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL011;ALFRESCO (GED Transverse)
+srv-tst-sieau;SRV-TST-SIEAU;SRVR0006;Serveur Virtuel;;Linux Centos 6 (64b);DMZ;192.168.222.3;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Non;TST;;;
+srv-tst-alfresc0;SRV-TST-ALFRESC0;SRVR0120;Serveur Virtuel;;Linux Centos 6 (64b);VLAN72 SI;172.16.20.155;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-dev-ii01;SRV-DEV-II01;SRVD0100;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.26;172.17.0.1;10.1.83.1;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;DEV;;;
+srv-dev-sql01;SRV-DEV-SQL01;SRVD0101;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.34;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;DEV;;;
+srv-prd-web04;SRV-PRD-WEB04;SRVP0004;Serveur Virtuel;Solatis - a décommissionner ?;Linux Centos 7 (64b);DMZ;192.168.222.192;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;SOLATIS?
+srv-prd-web05;SRV-PRD-WEB05;SRVP0005;Serveur Virtuel;Solatis - a décommissionner ?;Linux Centos 7 (64b);DMZ;192.168.222.193;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;SOLATIS?
+srv-filebox;SRV-FILEBOX;SRVP0009;Serveur Virtuel;Applicatif PEC - recuperation infos et fichiers RSA;Linux Centos 7 (64b);DMZ;192.168.222.20;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à SOLIS RSA?
+srv-filebox-rec;SRV-FILEBOX-REC;SRVP0010;Serveur Virtuel;;Linux Centos 7 (64b);DMZ;192.168.222.19;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
+srv-prd-wifi;SRV-PRD-WIFI;SRVP0018;Serveur Virtuel; serveur gestion des bornes wifi;Linux Centos 7 (64b);DMZ;192.168.222.145;10.100.100.2;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;à créer;Ucopia
+srv-prod-services1;SRV-PROD-SERVICES1;SRVP0019;Serveur Virtuel;Web1 serveur CAPDEMAT;Linux Centos 7 (64b);DMZ;192.168.222.32;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL038;CAPDEMAT
+srv-ic-01;SRV-IC-01;SRVP0144;Serveur Virtuel;Web à préciser Bruno;Linux Centos 7 (64b);VLAN72 SI;172.16.22.27;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-prd-appweb1;SRV-PRD-APPWEB1;SRVP0154;Serveur Virtuel;alias du app-web02 a supprimer bi-fs-023;Linux Centos 7 (64b);VLAN72 SI;172.16.23.10;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-prd-gfbat20(16112020);SRV-PRD-GFBAT20(16112020);SRVP0173;Serveur Virtuel;serveur gestion financiere;Linux Centos 7 (64b);VLAN72 SI;172.16.21.49;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL020;ASTRE-GF
+srv-prd-gtb;SRV-PRD-GTB;SRVP0180;Serveur Virtuel;gestion GTB 1;Linux Centos 7 (64b);;10.189.251.245;172.16.20.245;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-prd-ipara;SRV-PRD-IPARA;SRVP0183;Serveur Virtuel;serveur I-parapheur ;Linux Centos 7 (64b);VLAN72 SI;172.16.21.29;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL095;I-PARAPHEUR
+srv-prd-ordiges;SRV-PRD-ORDIGES;SRVP0194;Serveur Virtuel;Frontal application ordiges (marché public routes);Linux Centos 7 (64b);VLAN72 SI;172.16.21.26;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
+srv-prd-sql01;SRV-PRD-SQL01;SRVP0211;Serveur Virtuel;BDD  dédié postgres application PEGATA;Linux Centos 7 (64b);VLAN72 SI;172.16.24.1;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL124;PEGASE? À modifier, créer une nouvelle PEGASE Transport adapté
+srv-app-web02;SRV-APP-WEB02;SRVP0002;Serveur Virtuel;Web serveur isotools rsa.cg72.fr;Microsoft Windows Server 2008 R2 (64b);DMZ;192.168.222.151;192.168.222.152;192.168.222.153;192.168.222.155;192.168.222.156;192.168.222.157;192.168.222.158;192.168.222.159;192.168.222.161;192.168.222.162;192.168.222.180;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL250;ISOTOOLS
+srv-app-web03;SRV-APP-WEB03;SRVP0003;Serveur Virtuel;Site sarthe lecture   bd bdddmz;Microsoft Windows Server 2008 R2 (64b);DMZ;192.168.222.30;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;à créer;SITE SARTHE LECTURE
+srv-prd-tsgru;SRV-PRD-TSGRU;SRVP0214;Serveur Virtuel;GRU - serveur téléservices;Linux Centos 7 (64b);VLAN72 SI;172.16.21.37;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL038;CAPDEMAT
+srv-prd-tsqlgru;SRV-PRD-TSQLGRU;SRVP0215;Serveur Virtuel;GRU - BDD téléservices;Linux Centos 7 (64b);VLAN72 SI;172.16.21.38;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL038;CAPDEMAT
+srv-app-bdddmz;SRV-APP-BDDDMZ;SRVP0006;Serveur Virtuel;BDD sarthe lecture;Microsoft Windows Server 2003 (32b);DMZ;192.168.222.51;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;MSSQL;à créer;SITE SARTHE LECTURE?
+srv-app-gtb01;SRV-APP-GTB01;SRVP0007;Serveur Virtuel;Application GTB;Microsoft Windows 7 (64b);DMZ;192.168.222.41;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Non;PRD;;;
+srv-prod-sql01;SRV-PROD-SQL01;SRVP0220;Serveur Virtuel;BDD mutu ?;Linux Centos 7 (64b);VLAN72 SI;172.16.21.33;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-preprod-services1;SRV-PREPROD-SERVICES1;SRVR0001;Serveur Virtuel;;Linux Centos 7 (64b);DMZ;192.168.222.31;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRE;;;
+srv-tst-web04;SRV-TST-WEB04;SRVR0004;Serveur Virtuel;;Linux Centos 7 (64b);DMZ;192.168.222.194;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
+srv-preprod-sql01;SRV-PREPROD-SQL01;SRVR0102;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.22;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRE;;;
+srv-prd-gpda(26012021);SRV-PRD-GPDA(26012021);SRVP0012;Serveur Virtuel;application GPDA;Microsoft Windows Server 2016  (64b);DMZ;192.168.222.46;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL305;SOLIS - GPDA
+srv-prd-num;SRV-PRD-NUM;SRVP0013;Serveur Virtuel;FTPS numerisation CANON;Microsoft Windows Server 2016  (64b);DMZ;192.168.222.44;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à la GED?
+srv-rec-iparaph;SRV-REC-IPARAPH;SRVR0108;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.25;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-app-gtb02;SRV-APP-GTB02;SRVP0015;Serveur Virtuel;Application GTB;Microsoft Windows 7 (64b);DMZ;192.168.222.42;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Non;PRD;;;
+srv-dom-dmz16;SRV-DOM-DMZ16;SRVP0016;Serveur Virtuel;Controleur de domaine AD domaine DMZ;Microsoft Windows Server 2016  (64b);DMZ;192.168.222.131;192.168.222.130;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
+srv-prd-websig;SRV-PRD-WEBSIG;SRVP0017;Serveur Virtuel;Frontal WEB SIG ;Microsoft Windows Server 2012 R2 (64b);DMZ;192.168.222.191;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL248;Site web GEO.SARTHE.FR?
+srv-rec-ordiges;SRV-REC-ORDIGES;SRVR0110;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.13;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-rec-puppet;SRV-REC-PUPPET;SRVR0111;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.12;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tmp-geocort;SRV-TMP-GEOCORT;SRVP0020;Serveur Virtuel;Serveur SIG Geocortex;Microsoft Windows Server 2012 R2 (64b);DMZ;192.168.222.190;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;APPL074;GeoCortex
+srv-rec-sonde;SRV-REC-SONDE;SRVR0114;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.14;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-gfbat20;SRV-TST-GFBAT20;SRVR0128;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.41;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+7;7;SRVP0100;Serveur Virtuel;;Microsoft Windows 7 (64b);;;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;N/A;TST;;;
+srv-tst-https01;SRV-TST-HTTPS01;SRVR0134;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.20;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-sql01;SRV-TST-SQL01;SRVR0149;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.18;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-sql04;SRV-TST-SQL04;SRVR0151;Serveur Virtuel;;Linux Centos 7 (64b);VLAN72 SI;172.16.22.23;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+SRV-DEV-WD1;SRV-DEV-WD1;SRVD0102;Serveur Virtuel;;Linux Centos 8 (64b);VLAN72 SI;172.16.22.30;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;DEV;;;
+SRV-PRD-WD1;SRV-PRD-WD1;SRVP0217;Serveur Virtuel;Web - Drupal 8 sites dialogues social;Linux Centos 8 (64b);VLAN72 SI;172.16.21.43;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL238;à rattacher à Drupal 8
+SRV-PREPROD-WD1;SRV-PREPROD-WD1;SRVR0103;Serveur Virtuel;;Linux Centos 8 (64b);VLAN72 SI;172.16.22.31;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRE;;;
+CONSOLE_ALEX;CONSOLE-ALEX;SRVP0108;Serveur Virtuel;console;Microsoft Windows 10 (64b);VLAN72 SI;172.16.40.7;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;console
+CONSOLE_SAI.CG72.FR;CONSOLE-SAI.CG72.FR;SRVP0109;Serveur Virtuel;console;Microsoft Windows 10 (64b);VLAN72 SI;172.16.40.3;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;console
+Console-GRH;CONSOLE-GRH;SRVP0110;Serveur Virtuel;console  win10 deportée paye;Microsoft Windows 10 (64b);VLAN72 SI;172.16.40.78;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL041;CEGID RH
+grh;GRH;SRVP0111;Serveur Virtuel;uniquement partage de fichier a migrer et decommissionner;Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.20;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL041;CEGID RH
+srv-app-asg01;SRV-APP-ASG01;SRVP0112;Serveur Virtuel;aide sociale;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.80;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL154;SOLIS - ASG?
+srv-app-ast;SRV-APP-AST;SRVP0113;Serveur Virtuel;ancien serveur Solis AST - ?;Microsoft Windows Server 2008 (32b);VLAN72 SI;172.16.20.25;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL155;SOLIS - AST (ASE-AFI-PAIE-IP-AGREMENT-FSL)?
+srv-app-clog;SRV-APP-CLOG;SRVP0114;Serveur Virtuel;supprimé;Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.98;;;;;;;;;;;VMWARE;LAN;Virtuel;hors tension;NA;Oui;PRD;;;handicap Franck HERARD? Gestion de processus
+srv-app-dec;SRV-APP-DEC;SRVP0115;Serveur Virtuel;à supprimer?;Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.8;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;Décisionnel JFB
+srv-app-divers;SRV-APP-DIVERS;SRVP0116;Serveur Virtuel;script referentiels / divers;Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.149;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL268;Référentiel RH des agents?
+srv-app-etl;SRV-APP-ETL;SRVP0117;Serveur Virtuel;script non migrés vers prd-etl;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.6;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL188;TALEND
+srv-app-grh;SRV-APP-GRH;SRVP0118;Serveur Virtuel;EKSAE serveur appli GRH;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.96;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL041;CEGID RH
+srv-app-intra2(18-11-2020);SRV-APP-INTRA2(18-11-2020);SRVP0120;Serveur Virtuel;Web ( portailélus …);Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.65;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;à rattacher à portail élus,…? Bruno Renier
+srv-app-intrane (W2003);SRV-APP-INTRANE;SRVP0121;Serveur Virtuel;Web et petites applis;Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.75;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;MSSQL;;
+srv-prd-ligeo;SRV-PRD-LIGEO;SRVP0188;Serveur Virtuel;Serveur application LIGEO ?;Linux Debian 10 (64b);VLAN72 SI;172.16.21.12;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL104;LIGEO GESTION
+srv-app-openedge;SRV-APP-OPENEDGE;SRVP0123;Serveur Virtuel;BDD open edge  ancien GRH ;Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.130;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;JFB
+srv-app-orphee;SRV-APP-ORPHEE;SRVP0124;Serveur Virtuel;application sarthe lecture gestion livres;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.29;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL122;ORPHEE.NET BDP
+srv-app-sharep1;SRV-APP-SHAREP1;SRVP0126;Serveur Virtuel;sharepoint 2013 on premise;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.4;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL138;SHAREPOINT 2013
+srv-app-sql;SRV-APP-SQL;SRVP0127;Serveur Virtuel;BDD Mutu  intrane ?;Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.63;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;MSSQL;;
+srv-app-sql02;SRV-APP-SQL02;SRVP0128;Serveur Virtuel;BDD Mutu Sharepoint + ???;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.5;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;MSSQL;;
+srv-app-sql2008;SRV-APP-SQL2008;SRVP0129;Serveur Virtuel;BDD FOEDERIS;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.21;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;MSSQL;APPL067;FOEDERIS
+srv-app-t2d;SRV-APP-T2D;SRVP0130;Serveur Virtuel;Serveur pour transfert de données SOLIS;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.61;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;à rattacher à SOLIS AST, ASG, RSA?
+srv-app-tapa;SRV-APP-TAPA;SRVP0131;Serveur Virtuel; serveur applicatif gestion Tablettes APA;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.165;172.16.20.167;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL224;SOLIS MOBILITE?
+srv-app-tse01(18-11-2020);SRV-APP-TSE01(18-11-2020);SRVP0134;Serveur Virtuel;TSE 2008 X86 Mutu;Microsoft Windows Server 2008 (32b);VLAN72 SI;172.16.20.145;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-app-tse02;SRV-APP-TSE02;SRVP0135;Serveur Virtuel;TSE 2012 X64 Mutu ( sig +..);Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.17;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-app-twebdev(23-11-2020);SRV-APP-TWEBDEV(23-11-2020);SRVP0136;Serveur Virtuel;Serveur Windev Web;Microsoft Windows Server 2003 (32b);VLAN72 SI;172.16.20.137;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL183;WINDEV
+;SRV-PRD-OMVLAN;SRVP0277;Serveur Virtuel;HMJ?;Linux Debian 10 (64b);VLAN72 SI;172.16.20.70;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;;PRD;ORACLE;;
+srv-rec-ligeo;SRV-REC-LIGEO;SRVR0109;Serveur Virtuel;;Linux Debian 10 (64b);VLAN72 SI;172.16.22.5;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-varnish-01;SRV-VARNISH-01;SRVP0021;Serveur Virtuel;serveurs proxy frontaux  pour sites externes de prd-II2;Linux Debian 7 (64b);DMZ;192.168.222.14;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à sarthe.fr/ à décommissioner?
+srv-imp-02;SRV-IMP-02;SRVP0140;Serveur Virtuel;Serveur Impressions et gestion a preciser isabelle;Microsoft Windows Server 2008 (32b);VLAN72 SI;172.16.20.100;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra imp
+srv-dom-01;SRV-DOM-01;SRVP0141;Serveur Virtuel;Controleur de domaine AD;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.39;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
+SRV-DOM-02;SRV-DOM-02;SRVP0142;Serveur Physique;Controleur de domaine AD;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.18;;;;;;;;;;;NA;PHY;Sartel;;;Oui;PRD;;;
+srv-imp-2012;SRV-IMP-2012;SRVP0143;Serveur Virtuel; serveur Impression ;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.45;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra imp
+srv-varnish-02;SRV-VARNISH-02;SRVP0022;Serveur Virtuel;serveurs proxy frontaux  pour sites externes de prd-II2;Linux Debian 7 (64b);DMZ;192.168.222.15;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à sarthe.fr/ à décommissioner?
+SRV-DOM-06;SRV-DOM-06;SRVP0146;Serveur Physique;Controleur de domaine AD;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.160;;;;;;;;;;;NA;PHY;Croix de Pierre;;;Oui;PRD;;;
+srv-dom-07;SRV-DOM-07;SRVP0147;Serveur Virtuel;Controleur de domaine AD;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.161;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
+srv-int-geostat;SRV-INT-GEOSTAT;SRVP0148;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.17;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;APPL251;Geocortex-Analytics
+srv-prd-gru;SRV-PRD-GRU;SRVP0178;Serveur Virtuel;web gestion relation utilisateurs;Linux Debian 7 (64b);VLAN72 SI;172.16.21.13;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL038;CAPDEMAT
+SRV-DOM-10;SRV-DOM-10;SRVP0150;Serveur Physique;;Microsoft Windows Server 2008 R2 (64b);;172.19.158.1;;;;;;;;;;;NA;PHY;Croix de Pierre;;;Non;HP;;;
+SRV-DOM-11;SRV-DOM-11;SRVP0151;Serveur Physique;;Microsoft Windows Server 2008 R2 (64b);;172.19.63.1;;;;;;;;;;;NA;PHY;Croix de Pierre;;;Non;HP;;;
+SRV-DOM-12;SRV-DOM-12;SRVP0152;Serveur Physique;;Microsoft Windows Server 2008 R2 (64b);;Pas de réponse;;;;;;;;;;;NA;PHY;Croix de Pierre;;;Non;HP;;;
+srv-preprod-varnish01;SRV-PREPROD-VARNISH01;SRVR0002;Serveur Virtuel;;Linux Debian 7 (64b);DMZ;192.168.222.17;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRE;;;
+srv-tst-gru;SRV-TST-GRU;SRVR0132;Serveur Virtuel;;Linux Debian 7 (64b);VLAN72 SI;172.16.20.193;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-prd-asg;SRV-PRD-ASG;SRVP0155;Serveur Virtuel;Frontal Application Solis ASG;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.200;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL154;SOLIS - ASG
+srv-prd-ast;SRV-PRD-AST;SRVP0156;Serveur Virtuel;Frontal Application Solis AST;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.201;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL155;SOLIS - AST (ASE-AFI-PAIE-IP-AGREMENT-FSL)
+srv-prd-astech;SRV-PRD-ASTECH;SRVP0157;Serveur Virtuel;Frontal Application MILPAT;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.78;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL114;MILPAT
+srv-prd-BddEfal;SRV-PRD-BDDEFAL;SRVP0158;Serveur Virtuel;BDD  application Multigest Social;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.34;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL117;MULTIGEST
+srv-prd-bo2;SRV-PRD-BO2;SRVP0159;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.14;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL033;BO
+srv-prd-budget;SRV-PRD-BUDGET;SRVP0160;Serveur Virtuel;applications DGFIP Totem;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.32;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL193;TOTEM
+srv-prd-courrier;SRV-PRD-COURRIER;SRVP0162;Serveur Virtuel;Frontal application courrier;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.45;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL272;AIRS COURRIER
+srv-prd-delib;SRV-PRD-DELIB;SRVP0163;Serveur Virtuel;serveur applicatif AIRS DELIB;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.92;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL009;AIRS DELIB
+srv-prd-diver19;SRV-PRD-DIVER19;SRVP0164;Serveur Virtuel;Divers pas en prod;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.186;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-prd-divers;SRV-PRD-DIVERS;SRVP0165;Serveur Virtuel;Serveur applicatifs C/S;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.25;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-prd-efalia;SRV-PRD-EFALIA;SRVP0167;Serveur Virtuel;Frontal application Multigest social;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.21;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL117;MULTIGEST
+srv-prd-etl;SRV-PRD-ETL;SRVP0168;Serveur Virtuel;Serveur Talend ;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.27;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL188;TALEND
+srv-prd-foreval;SRV-PRD-FOREVAL;SRVP0169;Serveur Virtuel;Frontal application FOEDERIS;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.37;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL067;FOEDERIS
+srv-prd-foyer;SRV-PRD-FOYER;SRVP0170;Serveur Virtuel;Serveur Foyer  enfance pointeuse et planning;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.46;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
+srv-prd-gf20;SRV-PRD-GF20;SRVP0172;Serveur Virtuel;Frontal gestion financiere;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.46;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL020;ASTRE-GF
+srv-svi1;SRV-SVI1;SRVP0249;Serveur Virtuel;TOIP;Linux Debian 8 (32b);;172.29.1.214;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+srv-prd-gfd;SRV-PRD-GFD;SRVP0174;Serveur Virtuel;Frontal application  Frais deplacement GFD;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.55;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL069;FRAISDEP
+srv-prd-gfedi20;SRV-PRD-GFEDI20;SRVP0175;Serveur Virtuel;Gestion financiere;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.47;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL020;ASTRE-GF
+srv-prd-gfgecco;SRV-PRD-GFGECCO;SRVP0177;Serveur Virtuel;Gestion financiere;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.23;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL073;GECCO-PARAPHEUR
+srv-svi3;SRV-SVI3;SRVP0250;Serveur Virtuel;TOIP;Linux Debian 8 (32b);;172.29.1.216;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+srv-prd-gta(19-11-2020);SRV-PRD-GTA(19-11-2020);SRVP0179;Serveur Virtuel;Frontal application Chronos;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.94;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL043;CHRONOS
+srv-int-ii2;SRV-INT-II2;SRVP0149;Serveur Virtuel;;Linux Debian 8 (64b);VLAN72 SI;172.16.22.19;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-prd-imp19;SRV-PRD-IMP19;SRVP0181;Serveur Virtuel;serveur impression & Papercut;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.162;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra imp
+srv-prd-intrawe;SRV-PRD-INTRAWE;SRVP0182;Serveur Virtuel; web  rsa.fr et electranet;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.81;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
+srv-prd-mysql;SRV-PRD-MYSQL;SRVP0193;Serveur Virtuel;BDD mutu ?;Linux Debian 8 (64b);VLAN72 SI;172.16.21.22;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-prd-kadri;SRV-PRD-KADRI;SRVP0185;Serveur Virtuel;Frontal application Kadri;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.42;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL140;SIGNAL Projet, Gestion shéma directeur
+srv-prd-kentika;SRV-PRD-KENTIKA;SRVP0186;Serveur Virtuel;Application et bd kentika;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.119;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL101;KENTIKA
+srv-prd-licence;SRV-PRD-LICENCE;SRVP0187;Serveur Virtuel;serveur licences SIG Geomensura;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.54;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL110;MENSURA Génius
+srv-prod-ii1;SRV-PROD-II1;SRVP0221;Serveur Virtuel;serveur web de test;Linux Debian 8 (64b);VLAN72 SI;172.16.21.1;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-prd-logiclic;SRV-PRD-LOGICLIC;SRVP0189;Serveur Virtuel;serveur sql application logiclic   à préciser Thierry;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.24.2;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
+srv-prd-mail16;SRV-PRD-MAIL16;SRVP0190;Serveur Virtuel; serveur de messagerie exchange 2016;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.121;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra exchange
+srv-prd-mcafee1;SRV-PRD-MCAFEE1;SRVP0191;Serveur Virtuel;Serveur AV NAS;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.39;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra antivirus
+SRV-PRD-MSQL19;SRV-PRD-MSQL19;SRVP0192;Serveur Virtuel;BDD sql server 2019;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.44;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-prod-ii2;SRV-PROD-II2;SRVP0222;Serveur Virtuel;Monintranet et sites variés ;Linux Debian 8 (64b);VLAN72 SI;172.16.21.2;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;à rattacher à Mon Intranet? Autres sites?
+srv-prod-ii4;SRV-PROD-II4;SRVP0224;Serveur Virtuel;Web serveur GIT;Linux Debian 8 (64b);VLAN72 SI;172.16.21.4;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
+srv-preprod-ii1;SRV-PREPROD-II1;SRVR0100;Serveur Virtuel;;Linux Debian 8 (64b);VLAN72 SI;172.16.22.21;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRE;;;
+srv-prd-pff;SRV-PRD-PFF;SRVP0196;Serveur Virtuel;serveur API SOLIS /  solatis;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.19;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;à rattacher à SOLIS-AST?
+srv-prd-photo;SRV-PRD-PHOTO;SRVP0197;Serveur Virtuel;serveur application AJARIS photos communication;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.10;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL109;AJARIS - Médiathèque d’entreprise
+srv-prd-plano;SRV-PRD-PLANO;SRVP0198;Serveur Virtuel;Frontal application Planoteam;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.189;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL125;PLANOTEAM
+srv-prd-progos;SRV-PRD-PROGOS;SRVP0199;Serveur Virtuel;serveur application PROGOS;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.144;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL129;PROGOS
+srv-prd-psoc;SRV-PRD-PSOC;SRVP0201;Serveur Virtuel;Serveur Portail social agents;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.134;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL212;SOLIS - Portail Agent
+srv-prd-rsa;SRV-PRD-RSA;SRVP0202;Serveur Virtuel;Frontal application SOLIS RSA;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.202;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL157;SOLIS - RSA
+srv-prd-rsaedt;SRV-PRD-RSAEDT;SRVP0203;Serveur Virtuel;Serveur editique RSA;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.242;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL157;SOLIS - RSA
+srv-prd-sccmCB;SRV-PRD-SCCMCB;SRVP0204;Serveur Virtuel;serveur SCCM;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.59;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra sccm
+srv-prd-servpilot;SRV-PRD-SERVPILOT;SRVP0205;Serveur Virtuel;serveur de supervision;Microsoft Windows Server 2012 R2 (64b);;172.29.1.35;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL274;Service Pilot
+srv-prd-sma1-rest;SRV-PRD-SMA1-REST;SRVP0206;Serveur Virtuel;ordonnanceur Opconn noeud principal;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.30;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
+srv-prd-sma2;SRV-PRD-SMA2;SRVP0207;Serveur Virtuel;ordonnanceur Opconn noeud secondaire;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.31;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;
+srv-prd-soc;SRV-PRD-SOC;SRVP0208;Serveur Virtuel;serveur applicatif social  ? A decommissioner ?;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.51;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL154;SOLIS - ASG?
+srv-prd-socedt;SRV-PRD-SOCEDT;SRVP0209;Serveur Virtuel;serveur applicatif social  ? A decommissioner ?;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.52;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL154;SOLIS - ASG?
+srv-prd-sondearch;SRV-PRD-SONDEARCH;SRVP0210;Serveur Virtuel;Serveur sondes hygro archives departementales;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.190;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-preprod-ii2;SRV-PREPROD-II2;SRVR0101;Serveur Virtuel;;Linux Debian 8 (64b);VLAN72 SI;172.16.22.29;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRE;;;
+srv-rec-ii1;SRV-REC-II1;SRVR0107;Serveur Virtuel;;Linux Debian 8 (64b);VLAN72 SI;172.16.20.190;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-prd-telios;SRV-PRD-TELIOS;SRVP0213;Serveur Virtuel;Frontal application TELIOS ( paierie deparetementale);Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.35;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL165;TELIOS
+srv-arch-doc1 (linux);SRV-ARCH-DOC1 (LINUX);SRVP0137;Serveur Virtuel;Site archives departementalesbdd+ frontal;Linux Fedora 9 (32b);VLAN72 SI;172.16.20.151;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-arch-doc2 (linux);SRV-ARCH-DOC2 (LINUX);SRVP0138;Serveur Virtuel;Site archives departementales Frontal;Linux Fedora 9 (32b);VLAN72 SI;172.16.20.152;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+srv-arch-doc3 (linux);SRV-ARCH-DOC3 (LINUX);SRVP0139;Serveur Virtuel;Site archives departementales BDD mysql;Linux Fedora 9 (32b);VLAN72 SI;172.16.20.153;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+;SRV-VIR-OVMCDP;HYPP0015;Hyperviseur;;Linux Oracle  VM Server  3.4.4 (64b);VLAN72 SI;172.16.25.170;;;;;;;;;;;NA;LAN;Croix de Pierre;;;;PRD;;;
+;SRV-VIR-OVMSAR;HYPP0016;Hyperviseur;;Linux Oracle  VM Server  3.4.4 (64b);VLAN72 SI;172.16.25.171;;;;;;;;;;;NA;LAN;Sartel;;;;PRD;;;
+SRV-PRD-OVMM_01072020;SRV-PRD-OVMM_01072020;SRVP0195;Serveur Virtuel;Vm de gestion OVM;Linux Oracle Linux 7 (64b);VLAN72 SI;172.16.25.173;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;infra OVM
+SRV-PRD-ORAGF20;SRV-PRD-ORAGF20;SRVP0237;Serveur Virtuel;BDD mutu Applications Gestion financiere;Linux Oracle Linux 8 (64b);VLAN72 SI;172.16.21.53;;;;;;;;;;;OVM;OVM;Virtuel;;;Oui;PRD;ORACLE;APPL020;ASTRE-GF
+;SRV-PRD-ORHORUS;SRVP0267;Serveur Virtuel;BDD  dédié Horus;Linux Oracle Linux 8 (64b);VLAN72 SI;172.16.21.58;;;;;;;;;;;OVM;OVM;Virtuel;;NA;Non;PRD;ORACLE;APPL087;HORUS
+srv-tel-po1;SRV-TEL-PO1;SRVP0223;Serveur Virtuel;TOIP;Microsoft Windows Server 2008 R2 (64b);;172.29.1.102;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Non;PRD;;à créer;à rattacher à Cisco? À créer
+SRV-TST-ORAGF20;SRV-TST-ORAGF20;SRVR0160;Serveur Virtuel;;Linux Oracle Linux 8 (64b);VLAN72 SI;172.16.22.42;;;;;;;;;;;OVM;OVM;Virtuel;;;Oui;TST;ORACLE;;
+srv-prd-aad;SRV-PRD-AAD;SRVP0225;Serveur Virtuel;serveur Azure AD Connect;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.31;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
+srv-prd-adfs1(16-11-2020);SRV-PRD-ADFS1(16-11-2020);SRVP0226;Serveur Virtuel;serveur adfd primaire;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.48;172.16.20.64;10.10.0.1;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
+srv-prd-adfs2;SRV-PRD-ADFS2;SRVP0227;Serveur Virtuel;Serveur ADFS backup;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.49;172.16.20.64;10.10.0.2;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL273;Active Directory
+SRV-APP-ATAL;SRV-APP-ATAL;SRVP0228;Serveur Virtuel;frontal application ATAL;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.192;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;TST;ORACLE;APPL021;ATAL
+SRV-APP-ICENTRE;SRV-APP-ICENTRE;SRVP0229;Serveur Virtuel;ancien serveur infocentre Social;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.146;;;;;;;;;;;OVM;OVM;Virtuel;;10;Oui;TST;ORACLE;APPL184;INFOCENTRE ASG
+SRV-APP-ORACLE;SRV-APP-ORACLE;SRVP0230;Serveur Virtuel;BDD mutu ?;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.71;;;;;;;;;;;OVM;OVM;Virtuel;;10;Oui;PRD;ORACLE;;
+SRV-PRD-BDDSIG;SRV-PRD-BDDSIG;SRVP0231;Serveur Virtuel;BDD dédié SIG;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.15;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;PRD;ORACLE;;
+SRV-PRD-DSD;SRV-PRD-DSD;SRVP0232;Serveur Virtuel;BDD mutu applications Solis;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.187;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;PRD;ORACLE;APPL154;SOLIS - ASG
+SRV-PRD-ICENTRE;SRV-PRD-ICENTRE;SRVP0233;Serveur Virtuel;BDD infocentre;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.231;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;PRD;ORACLE;APPL184;INFOCENTRE ASG…?
+SRV-PRD-ORA11;SRV-PRD-ORA11;SRVP0234;Serveur Virtuel;BDD Mutu;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.132;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;PRD;ORACLE;;
+SRV-PRD-ORA12;SRV-PRD-ORA12;SRVP0235;Serveur Virtuel;BDD Mutu;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.28;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;PRD;ORACLE;;
+SRV-PRD-ORACLE;SRV-PRD-ORACLE;SRVP0236;Serveur Virtuel;BDD dédié  ;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.233;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;PRD;ORACLE;;
+;SRV-TST-ORHORUS;SRVR0177;Serveur Virtuel;;Linux Oracle Linux 8 (64b);VLAN72 SI;172.16.22.58;;;;;;;;;;;OVM;OVM;Virtuel;;NA;Non;TST;ORACLE;;
+SRV-PRD-ORAPIM2;SRV-PRD-ORAPIM2;SRVP0238;Serveur Virtuel;BDD application MILPAT;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.182;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;PRD;ORACLE;APPL114;MILPAT
+SRV-PRD-SIG;SRV-PRD-SIG;SRVP0239;Serveur Virtuel;BDD et applicatif geocortex;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.15;;;;;;;;;;;OVM;OVM;Virtuel;;10;Oui;PRD;ORACLE;APPL074;GeoCortex
+;SRV-TST-ORALINUX;SRVR0183;Serveur Virtuel;;Linux Oracle Linux 8 (64b);VLAN72 SI;172.16.22.55;;;;;;;;;;;OVM;OVM;Virtuel;;;;TST;ORACLE;;
+;VPLEX-WITNESS;SRVP0269;Serveur Virtuel;172.16.21.134;Linux Suse 11 entreprise  (64b);;172.18.4.16;;;;;;;;;;;VMWARE;SECU;Virtuel;;NA;Non;PRD;;;infra stockage
+AVAMARCD72-PROXY-01-DMZ;AVAMARCD72-PROXY-01-DMZ;SRVP0001;Serveur Virtuel;Proxy sauvegarde avamar;Linux Suse 11 entreprise SP1 EMC (64b);DMZ;192.168.222.1;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;à créer;AVAMAR
+srv-prd-esrs;SRV-PRD-ESRS;SRVP0011;Serveur Virtuel;Console admin et support EMC;Linux Suse 11 entreprise SP1 EMC (64b);DMZ;192.168.222.6;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;EMC
+AVAMARCD72-PROXY-01;AVAMARCD72-PROXY-01;SRVP0102;Serveur Virtuel;Proxy sauvegarde avamar;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.161;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
+AVAMARCD72-PROXY-02;AVAMARCD72-PROXY-02;SRVP0103;Serveur Virtuel;Proxy sauvegarde avamar;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.162;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
+srv-expe1;SRV-EXPE1;SRVP0246;Serveur Virtuel;TOIP;Autre (32 bits);DMZ;192.168.222.71;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+AVAMARCD72-PROXY-03;AVAMARCD72-PROXY-03;SRVP0104;Serveur Virtuel;Proxy sauvegarde avamar;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.163;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
+srv-inatd1[c];SRV-INATD1[C];SRVP0248;Serveur Virtuel;TOIP;Microsoft Windows Server 2012 R2 (64b);;172.29.1.220;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+AVAMARCD72-PROXY-04;AVAMARCD72-PROXY-04;SRVP0105;Serveur Virtuel;Proxy sauvegarde avamar;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.164;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
+AVAMARCD72-PROXY-05;AVAMARCD72-PROXY-05;SRVP0106;Serveur Virtuel;Proxy sauvegarde avamar;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.165;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
+srv-teladm1;SRV-TELADM1;SRVP0251;Serveur Virtuel;TOIP;Microsoft Windows Server 2012 R2 (64b);;172.29.1.228;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+srv-xmed1;SRV-XMED1;SRVP0252;Serveur Virtuel;TOIP;Microsoft Windows Server 2012 R2 (64b);;172.29.1.222;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+AVAMARCD72-PROXY-06;AVAMARCD72-PROXY-06;SRVP0107;Serveur Virtuel;Proxy sauvegarde avamar;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.166;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;a créer;AVAMAR
+srv-prd-suitejeton;SRV-PRD-SUITEJETON;SRVP0212;Serveur Virtuel;Interface d'échange entre le SI MDPH SOLIS et la CNAF;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.20.95;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;APPL309;SUITE JETON
+sta1809 cible;STA1809 CIBLE;SRVP0255;Serveur Virtuel;;Microsoft Windows 10 (64b);;172.18.4.2;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;N/A;TST;;;
+;SRV-PRD-PLANO4;SRVP0256;Serveur Virtuel;BDD oracle dédié Planoteam;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.86;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL125;PLANOTEAM
+;SRV-PRD-GFGECCO20;SRVP0257;Serveur Virtuel;Astre GF;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.188;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;GECCO-PARAPHEUR?
+srv-prd-vsi;SRV-PRD-VSI;SRVP0216;Serveur Virtuel;  ???? Arrété;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.20.205;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;;
+avamarcd72-proxy-toip01;AVAMARCD72-PROXY-TOIP01;SRVP0240;Serveur Virtuel;TOIP;Linux Suse 11 entreprise SP1 EMC (64b);;172.29.1.10;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;infra avamar
+srv-rec-suitejeton;SRV-REC-SUITEJETON;SRVR0115;Serveur Virtuel;;Linux Suse 11 entreprise SP1 EMC (64b);VLAN72 SI;172.16.22.28;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;SRV-PRD-ORPLAN4;SRVP0261;Serveur Virtuel;BDD dédié application Planoteam;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.88;;;VMWARE;Virtuel;LAN;;NA;;;;OVM;OVM;Virtuel;;NA;Non;PRD;ORACLE;APPL125;PLANOTEAM
+;SRV-PRD-GEC20;SRVP0262;Serveur Virtuel;Astre GF;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.26;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;GECCO-PARAPHEUR?
+;SRV-PRD-TOPKAPI;SRVP0263;Serveur Virtuel;Frontal application Topkapi;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.28;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL166;TOPKAPI
+;SRV-PRD-ORANEP;SRVP0266;Serveur Virtuel;BDD  dédié neptune;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.206;;;;;;;;;;;OVM;OVM;Virtuel;;;;PRD;ORACLE;APPL303;NEPTUNE
+srv-nas-02;SRV-NAS-02;SRVP0253;Serveur Virtuel;NAS archives departementales;Linux Suse 12 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.2;;;;;;;;;;;NA;LAN;Virtuel;;;Oui;PRD;;;infra NAS
+;SRV-PRD-HORUS;SRVP0268;Serveur Virtuel;Frontal application Horus;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.60;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL087;HORUS
+srv-nas-03;SRV-NAS-03;SRVP0254;Serveur Virtuel;NAS;Linux Suse 12 entreprise SP1 EMC (64b);VLAN72 SI;172.16.25.1;;;;;;;;;;;NA;LAN;Virtuel;;;Oui;PRD;;;infra NAS
+srv-tst-asalae;SRV-TST-ASALAE;SRVR0121;Serveur Virtuel;;Linux Ubuntu 12 LTS (64b);VLAN72 SI;172.16.20.16;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-app-sftpsnated;SRV-APP-SFTPSNATED;SRVP0008;Serveur Virtuel;ftp enfance en danger;Linux Ubuntu 13 (64b);DMZ;192.168.222.200;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;;à rattacher à SOLIS AST?
+;SRV-TST-ASTECHWB;SRVR0189;Serveur Virtuel;Serveur WEB ASTECH TEST;Linux Ubuntu 18 LTS (64b);VLAN72 SI;172.16.22.66;;;;;;;;;;;VMWARE;;;;;;;;;
+;SRV-PRD-ASTECHWB;SRVP0281;Serveur Virtuel;Serveur WEB ASTECH PROD;Linux Ubuntu 18 LTS (64b);VLAN72 SI;172.16.21.66;;;;;;;;;;;VMWARE;;;;;;;;;
+;SRV-PRD-V1;SRVP0274;Serveur Physique;;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.134;;;;;;;;;;;NA;LAN;Croix de Pierre;;;;PRD;;;
+;SRV-PRD-WINOR19;SRVP0275;Serveur Virtuel;BDD oracle 19 mutu (AIRS DELIB);Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.61;;;;;;;;;;;OVM;LAN;Virtuel;;NA;;PRD;ORACLE;APPL009;AIRS DELIB
+;SRV-PRD-AIRSDLB;SRVP0276;Serveur Virtuel;Frontal AIRSDELIB;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.62;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;;PRD;;APPL009;AIRS DELIB
+;SRV-PRD-BDDSITE;SRVP0259;Serveur Virtuel;BDD archi web sarthe.fr;Linux Ubuntu 20 LTS (64b);VLAN72 SI;172.16.21.50;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL137;SARTHE.FR
+;SRV-PRD-EKSAE;SRVP0278;Serveur Virtuel;Frontal EKSAE;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.63;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL041;CEGID RH
+;SRV-PRD-GIT;SRVP0260;Serveur Virtuel;archi web sarthe.fr;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.18;;;VMWARE;Virtuel;DMZ;;NA;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRD;;à créer;
+;SRV-PRE-DMATBK;SRVP0270;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);VLAN72 SI;172.16.21.56;;;;;;;;;;;VMWARE;LAN;Virtuel;;;;PRE;;APPL038;CAPDEMAT
+;SRV-PRD-DMATBK;SRVP0271;Serveur Virtuel;Backoffice CAPDEMAT V3;Linux Ubuntu 20 LTS (64b);VLAN72 SI;172.16.21.57;;;;;;;;;;;VMWARE;LAN;Virtuel;;;;PRD;;APPL038;CAPDEMAT
+srv-rec-websig;SRV-REC-WEBSIG;SRVR0003;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);DMZ;192.168.222.25;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
+;SRV-PRE-DMATFT;SRVP0272;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.56;;;;;;;;;;;VMWARE;DMZ;Virtuel;;;;PRE;;APPL038;CAPDEMAT
+srv-tst-num;SRV-TST-NUM;SRVR0005;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);DMZ;192.168.222.43;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
+;SRV-PRD-DMATFT;SRVP0273;Serveur Virtuel;Frontal CAPDEMAT V3;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.57;;;;;;;;;;;VMWARE;DMZ;Virtuel;;;;PRD;;APPL038;CAPDEMAT
+srv-tst-gpda(26012021);SRV-TST-GPDA(26012021);SRVR0007;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);DMZ;192.168.222.45;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
+;SRV-TST-UB20;SRVR0162;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.101;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;N/A;TST;;;
+;SRV-TST-WEB;SRVR0163;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.102;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
+;SRV-TST-BDD;SRVR0164;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.103;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
+;SRV-TST-GIT;SRVR0165;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.104;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;TST;;;
+srv-rec-efalia;SRV-REC-EFALIA;SRVR0104;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.4;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-rec-gfd;SRV-REC-GFD;SRVR0105;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.8;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-rec-gfgecco;SRV-REC-GFGECCO;SRVR0106;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.10;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;SRV-REC-PINK;SRVR0168;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);VLAN72 SI;172.16.20.23;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;SRV-PRE-WEBSITE;SRVR0170;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.26;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Oui;PRE;;;
+;SRV-PRE-BDDSITE;SRVR0171;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);VLAN72 SI;172.16.22.50;;;VMWARE;Virtuel;DMZ;;NA;;;;VMWARE;LAN;Virtuel;;NA;Non;PRE;;;
+;SRV-PRE-WEBELUS;SRVR0180;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);VLAN72 SI;172.16.20.24;;;;;;;;;;;VMWARE;SECU;Virtuel;;NA;Non;PRE;;;
+;SRV-DEV-DMATBK;SRVR0181;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);VLAN72 SI;172.16.21.55;;;;;;;;;;;VMWARE;LAN;Virtuel;;;;DEV;;;
+srv-rec-sig;SRV-REC-SIG-OLD;SRVR0112;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.41.13;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
+srv-rec-sig2;SRV-REC-SIG;SRVR0113;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.41;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;SRV-DEV-DMATFT;SRVR0182;Serveur Virtuel;;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.55;;;;;;;;;;;VMWARE;DMZ;Virtuel;;;;DEV;;;
+;SRV-PRD-INTRANET;SRVP0279;Serveur Virtuel;Frontal MONINTRANET;Linux Ubuntu 22 LTS (64b);VLAN72 SI;172.16.21.64;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;APPL116;MONINTRANET.SARTHE.FR
+;SRV-PRE-INTRANET;SRVR0187;Serveur Virtuel;;Linux Ubuntu 22 LTS (64b);VLAN72 SI;172.16.22.64;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
+;SRV-VIR-SECU;HYPP0012;Hyperviseur;;Linux VMWare ESXI 6.0.0 (64b);;172.18.4.21;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+srv-tst-astech;SRV-TST-ASTECH;SRVR0122;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.79;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-bo;SRV-TST-BO;SRVR0123;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.9;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-courrier;SRV-TST-COURRIER;SRVR0124;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.35;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-delib;SRV-TST-DELIB;SRVR0125;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.93;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-foreval;SRV-TST-FOREVAL;SRVR0126;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.41;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-gf20;SRV-TST-GF20;SRVR0127;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.38;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;ESX1-TOIP;HYPP0013;Hyperviseur;;Linux VMWare ESXI 6.0.0 (64b);;172.29.1.232;;;;;;;;;;;VMWARE;TOIP;Croix de Pierre;;;;PRD;;;
+srv-tst-gfedi20;SRV-TST-GFEDI20;SRVR0129;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.39;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;ESX2-TOIP;HYPP0014;Hyperviseur;;Linux VMWare ESXI 6.0.0 (64b);;172.29.1.233;;;;;;;;;;;VMWARE;TOIP;Sartel;;;;PRD;;;
+srv-tst-gta;SRV-TST-GTA;SRVR0133;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.94;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;SRV-VIR-01;HYPP0001;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.1;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+srv-tst-intrawe;SRV-TST-INTRAWE;SRVR0135;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.83;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-kadri;SRV-TST-KADRI;SRVR0136;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.22.2;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-kentika;SRV-TST-KENTIKA;SRVR0137;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.118;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-multigest;SRV-TST-MULTI;SRVR0138;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.183;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-pff;SRV-TST-PFF;SRVR0139;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.18;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-plano;SRV-TST-PLANO;SRVR0140;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.188;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-progos;SRV-TST-PROGOS;SRVR0141;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.154;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-psoc;SRV-TST-PSOC;SRVR0142;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.133;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-rpa;SRV-TST-RPA;SRVR0143;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.36;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-sharep1;SRV-TST-SHAREP1;SRVR0144;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.35;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-soc;SRV-TST-SOC;SRVR0145;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.12;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-socedt;SRV-TST-SOCEDT;SRVR0146;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.22.3;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-solis;SRV-TST-SOLIS;SRVR0147;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.6;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+srv-tst-solis2;SRV-TST-SOLIS2;SRVR0148;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.22.7;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;SRV-VIR-02;HYPP0002;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.2;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+srv-tst-sql02;SRV-TST-SQL02;SRVR0150;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.36;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;SRV-VIR-03;HYPP0003;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.3;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+srv-tst-urba;SRV-TST-URBA;SRVR0153;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.24;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+SRV-REC-BDDSIG;SRV-REC-BDDSIG;SRVR0154;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.21.16;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;TST;ORACLE;;
+SRV-TST-BDDDSD;SRV-TST-BDDDSD;SRVR0155;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.32;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;TST;ORACLE;;
+SRV-TST-ORA10;SRV-TST-ORA10;SRVR0156;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.74;;;;;;;;;;;OVM;OVM;Virtuel;;10;Oui;TST;ORACLE;;
+SRV-TST-ORA11;SRV-TST-ORA11;SRVR0157;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.131;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;TST;ORACLE;;
+SRV-TST-ORA12;SRV-TST-ORA12;SRVR0158;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.22.37;;;;;;;;;;;OVM;OVM;Virtuel;;12;Oui;TST;ORACLE;;
+SRV-TST-ORACLE;SRV-TST-ORACLE;SRVR0159;Serveur Virtuel;;Microsoft Windows Server 2012 R2 (64b);VLAN72 SI;172.16.20.232;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;TST;ORACLE;;
+;SRV-VIR-04;HYPP0004;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.4;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+SRV-TST-SIG;SRV-TST-SIG;SRVR0161;Serveur Virtuel;;Microsoft Windows Server 2008 R2 (64b);VLAN72 SI;172.16.20.60;;;;;;;;;;;OVM;OVM;Virtuel;;11;Oui;TST;ORACLE;;
+;SRV-VIR-05;HYPP0005;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.5;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+;SRV-VIR-06;HYPP0006;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.6;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+;SRV-VIR-21;HYPP0007;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.7;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+;SRV-VIR-22;HYPP0008;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.8;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+;SRV-TST-PLANO4;SRVR0166;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.20.85;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
+;SRV-VIR-23;HYPP0009;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);;172.18.4.9;;;;;;;;;;;VMWARE;LAN;Croix de Pierre;;;;PRD;;;
+;SRV-TST-GFGECCO20;SRVR0169;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.187;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
+;SRV-VIR-DMZ01;HYPP0010;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);DMZ;192.168.222.21;;;;;;;;;;;VMWARE;DMZ;Sartel;;;;PRD;;;
+;SRV-VIR-DMZ02;HYPP0011;Hyperviseur;;Linux VMWare ESXI 6.5.0 (64b);DMZ;192.168.222.22;;;;;;;;;;;VMWARE;DMZ;Sartel;;;;PRD;;;
+;SRV-TST-ORPLAN4;SRVR0172;Serveur Virtuel;;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.87;;;VMWARE;Virtuel;LAN;;NA;;;;OVM;OVM;Virtuel;;NA;Non;TST;ORACLE;;
+;SRV-TST-GEC20;SRVR0173;Serveur Virtuel;;Microsoft Windows Server 2016  (64b);VLAN72 SI;172.16.21.20;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Oui;TST;;;
+;SRV-prd-multi;SRVR0174;Serveur Virtuel;Frontal applicatif multigest administratif;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.48;;;VMWARE;Virtuel;LAN;;NA;Oui;TST;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;créer appli Multigest administratif?
+;SRV-prd-bddmulti;SRVR0175;Serveur Virtuel;BDD dédie multigest admiistratif & finances;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.52;;;VMWARE;Virtuel;LAN;;NA;Oui;TST;;VMWARE;LAN;Virtuel;;NA;Oui;PRD;;à créer;créer appli Multigest administratif?
+;SRV-TST-ORANEP;SRVR0176;Serveur Virtuel;;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.43;;;;;;;;;;;OVM;OVM;Virtuel;;;;TST;ORACLE;;
+vcenter67-cdp;VCENTER67-CDP;SRVP0219;Serveur Virtuel;Vcenter LAN;Linux VMWare VCenter 6.7 (64b);VLAN72 SI;172.16.20.53;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;PRD;;;Infra VMWare
+;SRV-TST-HORUS;SRVR0178;Serveur Virtuel;;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.60;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
+;SRV-TST-TNAS;SRVR0179;Serveur Virtuel;;FreeBSD TrueNAS 12 stable (64b);VLAN72 SI;172.16.21.189;;;;;;;;;;;VMWARE;SECU;Virtuel;;NA;Non;TST;;;
+;SRV-PRD-WEBSITE;SRVP0258;Serveur Virtuel;archi web sarthe.fr;Linux Ubuntu 20 LTS (64b);DMZ;192.168.222.27;;;;;;;;;;;VMWARE;DMZ;Virtuel;;NA;Non;PRD;;APPL137;SARTHE.FR
+cucm-pcd;CUCM-PCD;SRVP0241;Serveur Virtuel;TOIP;Linux RedHat 6 entreprise (64b);;172.29.1.208;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+cucm-pub;CUCM-PUB;SRVP0242;Serveur Virtuel;TOIP;Linux RedHat 6 entreprise (64b);;172.29.1.200;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+cucm-sub1;CUCM-SUB1;SRVP0243;Serveur Virtuel;TOIP;Linux RedHat 6 entreprise (64b);;172.29.1.202;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+;SRV-TST-AIRSDLB;SRVR0184;Serveur Virtuel;;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.62;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;;TST;;;
+;SRV-TST-WINOR19;SRVR0185;Serveur Virtuel;;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.20.66;;;;;;;;;;;OVM;LAN;Virtuel;;NA;Oui;TST;ORACLE;;
+;SRV-TST-EKSAE;SRVR0186;Serveur Virtuel;;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.63;;;;;;;;;;;VMWARE;LAN;Virtuel;;NA;Non;TST;;;
+cucm-tftp1;CUCM-TFTP1;SRVP0244;Serveur Virtuel;TOIP;Linux RedHat 6 entreprise (64b);;172.29.1.204;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+;SRV-TST-ASTECH5;SRVR0188;Serveur Virtuel;Serveur Application ASTECH TEST;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.22.65;;;;;;;;;;;VMWARE;;;;;;;;;
+;SRV-PRD-ASTECH5;SRVP0280;Serveur Virtuel;Serveur Application ASTECH PROD;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.65;;;;;;;;;;;VMWARE;;;;;;;;;
+srv-cuc2;SRV-CUC2;SRVP0245;Serveur Virtuel;TOIP;Linux RedHat 6 entreprise (64b);;172.29.1.211;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+srv-imp1;SRV-IMP1;SRVP0247;Serveur Virtuel;TOIP;Linux RedHat 6 entreprise (64b);;172.29.1.212;;;;;;;;;;;VMWARE;TOIP;Virtuel;;NA;Oui;PRD;;à créer;à rattacher à Cisco? À créer
+;SRV-PRD-ORASTECH;SRVP0282;Serveur Virtuel;Serveur Oracle ASTECH PROD et TEST;Microsoft Windows Server 2019  (64b);VLAN72 SI;172.16.21.67;;;;;;;;;;;VMWARE;;;;;;;ORACLE;;
