@@ -1,0 +1,181 @@
+{
+  "key": "plugin_content_manager_configuration_content_types::api::system.system",
+  "value": {
+    "uid": "api::system.system",
+    "settings": {
+      "bulkable": true,
+      "filterable": true,
+      "searchable": true,
+      "pageSize": 10,
+      "mainField": "os_system",
+      "defaultSortBy": "os_system",
+      "defaultSortOrder": "ASC"
+    },
+    "metadatas": {
+      "id": {
+        "edit": {},
+        "list": {
+          "label": "id",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "os_system": {
+        "edit": {
+          "label": "os_system",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "os_system",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "os_distrib": {
+        "edit": {
+          "label": "os_distrib",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "os_distrib",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "os_version": {
+        "edit": {
+          "label": "os_version",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "os_version",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "os_arch": {
+        "edit": {
+          "label": "os_arch",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "os_arch",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "os_eos": {
+        "edit": {
+          "label": "os_eos",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "os_eos",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "os_name": {
+        "edit": {
+          "label": "os_name",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "os_name",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "createdAt": {
+        "edit": {
+          "label": "createdAt",
+          "description": "",
+          "placeholder": "",
+          "visible": false,
+          "editable": true
+        },
+        "list": {
+          "label": "createdAt",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "updatedAt": {
+        "edit": {
+          "label": "updatedAt",
+          "description": "",
+          "placeholder": "",
+          "visible": false,
+          "editable": true
+        },
+        "list": {
+          "label": "updatedAt",
+          "searchable": true,
+          "sortable": true
+        }
+      }
+    },
+    "layouts": {
+      "list": [
+        "id",
+        "os_system",
+        "os_distrib",
+        "os_version"
+      ],
+      "editRelations": [],
+      "edit": [
+        [
+          {
+            "name": "os_system",
+            "size": 6
+          },
+          {
+            "name": "os_distrib",
+            "size": 6
+          }
+        ],
+        [
+          {
+            "name": "os_version",
+            "size": 6
+          },
+          {
+            "name": "os_arch",
+            "size": 6
+          }
+        ],
+        [
+          {
+            "name": "os_eos",
+            "size": 4
+          },
+          {
+            "name": "os_name",
+            "size": 6
+          }
+        ]
+      ]
+    }
+  },
+  "type": "object",
+  "environment": null,
+  "tag": null
+}

@@ -1,0 +1,160 @@
+{
+  "key": "plugin_content_manager_configuration_content_types::api::server.server",
+  "value": {
+    "uid": "api::server.server",
+    "settings": {
+      "bulkable": true,
+      "filterable": true,
+      "searchable": true,
+      "pageSize": 10,
+      "mainField": "Nom",
+      "defaultSortBy": "Nom",
+      "defaultSortOrder": "ASC"
+    },
+    "metadatas": {
+      "id": {
+        "edit": {},
+        "list": {
+          "label": "id",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "Nom": {
+        "edit": {
+          "label": "Nom",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "Nom",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "Code": {
+        "edit": {
+          "label": "Code",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "Code",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "Type": {
+        "edit": {
+          "label": "Type",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "Type",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "Description": {
+        "edit": {
+          "label": "Description",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "Description",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "OS": {
+        "edit": {
+          "label": "OS",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true,
+          "mainField": "os_system"
+        },
+        "list": {
+          "label": "OS",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "createdAt": {
+        "edit": {
+          "label": "createdAt",
+          "description": "",
+          "placeholder": "",
+          "visible": false,
+          "editable": true
+        },
+        "list": {
+          "label": "createdAt",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "updatedAt": {
+        "edit": {
+          "label": "updatedAt",
+          "description": "",
+          "placeholder": "",
+          "visible": false,
+          "editable": true
+        },
+        "list": {
+          "label": "updatedAt",
+          "searchable": true,
+          "sortable": true
+        }
+      }
+    },
+    "layouts": {
+      "list": [
+        "id",
+        "Nom",
+        "Code",
+        "Type"
+      ],
+      "editRelations": [
+        "OS"
+      ],
+      "edit": [
+        [
+          {
+            "name": "Nom",
+            "size": 6
+          },
+          {
+            "name": "Code",
+            "size": 6
+          }
+        ],
+        [
+          {
+            "name": "Type",
+            "size": 6
+          },
+          {
+            "name": "Description",
+            "size": 6
+          }
+        ]
+      ]
+    }
+  },
+  "type": "object",
+  "environment": null,
+  "tag": null
+}

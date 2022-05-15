@@ -1,0 +1,49 @@
+{
+  "name": "Public",
+  "description": "Default role given to unauthenticated user.",
+  "type": "public",
+  "permissions": [
+    {
+      "action": "api::server.server.create"
+    },
+    {
+      "action": "api::server.server.delete"
+    },
+    {
+      "action": "api::server.server.find"
+    },
+    {
+      "action": "api::server.server.findOne"
+    },
+    {
+      "action": "api::server.server.update"
+    },
+    {
+      "action": "api::system.system.create"
+    },
+    {
+      "action": "api::system.system.delete"
+    },
+    {
+      "action": "api::system.system.find"
+    },
+    {
+      "action": "api::system.system.findOne"
+    },
+    {
+      "action": "api::system.system.update"
+    },
+    {
+      "action": "plugin::users-permissions.auth.callback"
+    },
+    {
+      "action": "plugin::users-permissions.auth.connect"
+    },
+    {
+      "action": "plugin::users-permissions.auth.register"
+    },
+    {
+      "action": "plugin::users-permissions.user.me"
+    }
+  ]
+}
