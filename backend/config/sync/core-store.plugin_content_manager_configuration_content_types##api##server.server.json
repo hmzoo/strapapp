@@ -48,20 +48,6 @@
           "sortable": true
         }
       },
-      "Type": {
-        "edit": {
-          "label": "Type",
-          "description": "",
-          "placeholder": "",
-          "visible": true,
-          "editable": true
-        },
-        "list": {
-          "label": "Type",
-          "searchable": true,
-          "sortable": true
-        }
-      },
       "Description": {
         "edit": {
           "label": "Description",
@@ -87,6 +73,90 @@
         },
         "list": {
           "label": "OS",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "IP": {
+        "edit": {
+          "label": "IP",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "IP",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "Virtualisation": {
+        "edit": {
+          "label": "Virtualisation",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "Virtualisation",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "Type": {
+        "edit": {
+          "label": "Type",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "Type",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "VLAN": {
+        "edit": {
+          "label": "VLAN",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "VLAN",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "Appli_code": {
+        "edit": {
+          "label": "Appli_code",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "Appli_code",
+          "searchable": true,
+          "sortable": true
+        }
+      },
+      "Appli_libelle": {
+        "edit": {
+          "label": "Appli_libelle",
+          "description": "",
+          "placeholder": "",
+          "visible": true,
+          "editable": true
+        },
+        "list": {
+          "label": "Appli_libelle",
           "searchable": true,
           "sortable": true
         }
@@ -121,15 +191,6 @@
       }
     },
     "layouts": {
-      "list": [
-        "id",
-        "Nom",
-        "Code",
-        "Type"
-      ],
-      "editRelations": [
-        "OS"
-      ],
       "edit": [
         [
           {
@@ -150,7 +211,43 @@
             "name": "Description",
             "size": 6
           }
+        ],
+        [
+          {
+            "name": "IP",
+            "size": 6
+          },
+          {
+            "name": "Virtualisation",
+            "size": 6
+          }
+        ],
+        [
+          {
+            "name": "VLAN",
+            "size": 6
+          },
+          {
+            "name": "Appli_code",
+            "size": 6
+          }
+        ],
+        [
+          {
+            "name": "Appli_libelle",
+            "size": 6
+          }
         ]
+      ],
+      "editRelations": [
+        "OS"
+      ],
+      "list": [
+        "id",
+        "Nom",
+        "Code",
+        "Type",
+        "OS"
       ]
     }
   },

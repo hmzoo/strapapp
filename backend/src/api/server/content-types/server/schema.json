@@ -22,15 +22,6 @@
       "required": true,
       "unique": true
     },
-    "Type": {
-      "type": "enumeration",
-      "enum": [
-        "Serveur Virtuel",
-        "Serveur Physique",
-        "Hyperviseur"
-      ],
-      "default": "Serveur Virtuel"
-    },
     "Description": {
       "type": "string"
     },
@@ -38,6 +29,24 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::system.system"
+    },
+    "IP": {
+      "type": "string"
+    },
+    "Virtualisation": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "string"
+    },
+    "VLAN": {
+      "type": "string"
+    },
+    "Appli_code": {
+      "type": "string"
+    },
+    "Appli_libelle": {
+      "type": "string"
     }
   }
 }

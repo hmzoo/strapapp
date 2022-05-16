@@ -6,8 +6,8 @@
       "bulkable": true,
       "filterable": true,
       "searchable": true,
-      "pageSize": 10,
-      "mainField": "os_system",
+      "pageSize": 100,
+      "mainField": "os_name",
       "defaultSortBy": "os_system",
       "defaultSortOrder": "ASC"
     },
@@ -134,13 +134,6 @@
       }
     },
     "layouts": {
-      "list": [
-        "id",
-        "os_system",
-        "os_distrib",
-        "os_version"
-      ],
-      "editRelations": [],
       "edit": [
         [
           {
@@ -172,6 +165,15 @@
             "size": 6
           }
         ]
+      ],
+      "editRelations": [],
+      "list": [
+        "id",
+        "os_system",
+        "os_distrib",
+        "os_version",
+        "os_arch",
+        "os_eos"
       ]
     }
   },

@@ -10,9 +10,14 @@
         "fields": [
           "Nom",
           "Code",
-          "Type",
           "Description",
-          "OS"
+          "OS",
+          "IP",
+          "Virtualisation",
+          "Type",
+          "VLAN",
+          "Appli_code",
+          "Appli_libelle"
         ]
       },
       "conditions": []
@@ -36,9 +41,14 @@
         "fields": [
           "Nom",
           "Code",
-          "Type",
           "Description",
-          "OS"
+          "OS",
+          "IP",
+          "Virtualisation",
+          "Type",
+          "VLAN",
+          "Appli_code",
+          "Appli_libelle"
         ]
       },
       "conditions": []
@@ -50,9 +60,14 @@
         "fields": [
           "Nom",
           "Code",
-          "Type",
           "Description",
-          "OS"
+          "OS",
+          "IP",
+          "Virtualisation",
+          "Type",
+          "VLAN",
+          "Appli_code",
+          "Appli_libelle"
         ]
       },
       "conditions": []

@@ -15,8 +15,8 @@ Linux Debian 10 (64b);Linux;Debian;10;64b;server;01/08/2022;OUI;3
 Linux Fedora 9 (32b);Linux;Fedora;9;32b;server;10/07/2009;NON;3
 Linux Oracle Linux 7 (64b);Linux;Oracle Linux;7;64b;server;01/07/2024;OUI;1
 Linux Oracle Linux 8 (64b);Linux;Oracle Linux;8;64b;server;01/07/2029;OUI;5
-Linux Oracle  VM Server  3.4.4 (64b);Linux;Oracle  VM Server ;3.4.4;64b;hyperviseur;31/03/2024;OUI;2
-Linux Suse 11 entreprise  (64b);Linux;Suse;11 entreprise ;64b;nas;31/10/2024;OUI;1
+Linux Oracle VM Server 3.4.4 (64b);Linux;Oracle VM Server;3.4.4;64b;hyperviseur;31/03/2024;OUI;2
+Linux Suse 11 entreprise (64b);Linux;Suse;11 entreprise;64b;nas;31/10/2024;OUI;1
 Linux Suse 11 entreprise SP1 EMC (64b);Linux;Suse;11 entreprise SP1 EMC;64b;nas;31/10/2024;OUI;12
 Linux Suse 12 entreprise SP1 EMC (64b);Linux;Suse;12 entreprise SP1 EMC;64b;nas;31/10/2024;OUI;2
 Linux Ubuntu 13 (64b);Linux;Ubuntu;13;64b;server;01/07/2014;NON;1
